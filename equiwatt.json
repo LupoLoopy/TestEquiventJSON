@@ -1,0 +1,49 @@
+{
+    "success": true,
+    "msg": null,
+    "data": {
+        "current_event": null,
+        "previous_events": [
+            {
+                "start_time": 1671206484,
+                "end_time": 1671210062
+            },
+            {
+                "start_time": 1670601661,
+                "end_time": 1670605263
+            },
+            {
+                "start_time": 1670403676,
+                "end_time": 1670407262
+            },
+            {
+                "start_time": 1669744866,
+                "end_time": 1669748462
+            },
+            {
+                "start_time": 1669402864,
+                "end_time": 1669406462
+            },
+            {
+                "start_time": 1668792669,
+                "end_time": 1668796262
+            },
+            {
+                "start_time": 1668711667,
+                "end_time": 1668715262
+            },
+            {
+                "start_time": 1668531667,
+                "end_time": 1668535262
+            },
+            {
+                "start_time": 1668193334,
+                "end_time": 1668196863
+            },
+            {
+                "start_time": 1667934067,
+                "end_time": 1667937662
+            }
+        ]
+    }
+}
